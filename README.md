@@ -2,7 +2,9 @@
 	Livro de receitas
 
 	Olá! Bem vindo a meu livro de receitas :wave 
-	-. xxx
+	* Massa Alho e óleo
+	* Feijoada
+	* Pavê
 xxx
 xx
 
